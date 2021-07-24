@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    <color name="colorPrimary">#CE0000</color>-->
+    <!--    <color name="colorPrimaryDark">#CE0000</color>-->
+    <!--    <color name="colorAccent">#ffffff</color>-->
+
+    <!--    <color name="colorPrimary">#CE0000</color>-->
+    <!--    <color name="colorPrimaryDark">#CE0000</color>-->
+
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#2196F3</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="successGreen">#11A10C</color>
+    <color name="RecyclerViewBackground">#d6d6d6</color>
+
+    <color name="couponPurple">#3606b6</color>
+    <color name="couponRed">#FF3030</color>
+
+    <color name="btnRed">#9f0000</color>
+</resources>

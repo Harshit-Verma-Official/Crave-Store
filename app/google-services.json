@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "328179763965",
+    "firebase_url": "https://sparkcart-757a7.firebaseio.com",
+    "project_id": "sparkcart-757a7",
+    "storage_bucket": "sparkcart-757a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328179763965:android:b2238696306905e102cc94",
+        "android_client_info": {
+          "package_name": "sparkcart.hydra.foodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328179763965-reujl8g8htpnj6o85novbhuki8m7r33u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sparkcart.hydra.foodie",
+            "certificate_hash": "be6468fbd86185136a5c401396d3323fc6b25fa0"
+          }
+        },
+        {
+          "client_id": "328179763965-2i5ful46b21u914nkkih91leuug81p76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2JPGBVw2PcxeWJIKZMwaPCKzWAlrgUSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328179763965-2i5ful46b21u914nkkih91leuug81p76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
