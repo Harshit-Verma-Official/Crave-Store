@@ -1,10 +1,10 @@
-#About
+# About
   - Crave Store is an Online Shopping (E-commerce) Android App that aims
 at online shopping and commerce over the internet.
   - This app is built in Java powered with Firebase as database.
   - All MVVM architecture norms are implemented.
 
-#Screenshots
+# Screenshots
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/Harshit-Verma-Official/Crave-Store/blob/master/screenshots/ss1.png"> |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/Harshit-Verma-Official/Crave-Store/blob/master/screenshots/ss2.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/Harshit-Verma-Official/Crave-Store/blob/master/screenshots/ss3.png">|
